@@ -1,6 +1,8 @@
-# news_app
+# News_App
 
 A Simple News API Application
+
+APK Link: https://drive.google.com/file/d/1y83hLUNY89gxnTIfXA_yVsCc1wlzck3o/view?usp=sharing
 
 ## Getting Started
 
